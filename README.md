@@ -37,16 +37,15 @@
 
 ---
 
-## 🛠️ Languages & Tools  
+## 🛠️ Languages & Tools
 
-<!-- Developer Illustration on the Right -->
-<p align="right">
-  <img src="https://raw.githubusercontent.com/ANURAG12112004/ANURAG12112004/main/Analyst.png" width="280px" />
-</p>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+
+<div>
 
 ### 💻 Programming  
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,js" height="50" />
+  <img src="https://skillicons.dev/icons?i=python,c,java" height="50" />
 </p>
 
 ### 🌐 Web Development  
@@ -65,6 +64,15 @@
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 </p>
+
+</div>
+
+<div>
+  <img src="https://raw.githubusercontent.com/ANURAG12112004/ANURAG12112004/main/Analyst.png" width="220">
+</div>
+
+</div>
+
 
 ---
 
