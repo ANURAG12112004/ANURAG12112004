@@ -39,9 +39,10 @@
 
 ## 🛠️ Languages & Tools
 
-<table>
-<tr>
-<td width="60%" valign="top">
+<div style="display: flex; justify-content: space-between; align-items: flex-start; width: 100%;">  
+
+<!-- LEFT SIDE CONTENT -->
+<div style="width: 55%;">
 
 ### 💻 Programming  
 <img src="https://skillicons.dev/icons?i=python,java,c,js" height="50" />
@@ -57,14 +58,15 @@
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 
-</td>
+</div>
 
-<td width="40%" valign="top" align="right">
-  <img src="https://raw.githubusercontent.com/ANURAG12112004/ANURAG12112004/main/Analyst.png" width="230px">
-</td>
+<!-- RIGHT SIDE IMAGE -->
+<div style="width: 40%; text-align: right;">
+  <img src="https://raw.githubusercontent.com/ANURAG12112004/ANURAG12112004/main/Analyst.png" width="240px">
+</div>
 
-</tr>
-</table>
+</div>
+
 
 ---
 
