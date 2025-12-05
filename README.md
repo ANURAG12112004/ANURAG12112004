@@ -59,7 +59,7 @@
 
 </td>
 
-<td align="center" width="40%" valign="top">
+<td width="40%" valign="top" align="right">
   <img src="https://raw.githubusercontent.com/ANURAG12112004/ANURAG12112004/main/Analyst.png" width="230px">
 </td>
 
