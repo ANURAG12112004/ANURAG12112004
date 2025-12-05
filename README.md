@@ -45,7 +45,7 @@
 <div style="width: 55%;">
 
 ### 💻 Programming  
-<img src="https://skillicons.dev/icons?i=python,java,c,js" height="50" />
+<img src="https://skillicons.dev/icons?i=python,c,java" height="50" />
 
 ### 🌐 Web Development  
 <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,react" height="50" />
