@@ -60,10 +60,6 @@
 
 </div>
 
-<!-- RIGHT SIDE IMAGE -->
-<div style="width: 40%; text-align: right;">
-  <img src="https://raw.githubusercontent.com/ANURAG12112004/ANURAG12112004/main/Analyst.png" width="240px">
-</div>
 
 </div>
 
