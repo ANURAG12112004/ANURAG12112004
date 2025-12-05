@@ -39,45 +39,32 @@
 
 ## 🛠️ Languages & Tools
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-
-<div>
+<table>
+<tr>
+<td width="60%" valign="top">
 
 ### 💻 Programming  
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,java" height="50" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,java,c,js" height="50" />
 
 ### 🌐 Web Development  
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,react" height="50" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,react" height="50" />
 
 ### 🛢 Databases  
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" height="50" />
-</p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" height="50" />
 
 ### 📊 Data & Analytics  
-<p>
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-</p>
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 
-</div>
+</td>
 
-<div>
-  <img src="https://raw.githubusercontent.com/ANURAG12112004/ANURAG12112004/main/Analyst.png" width="220">
-</div>
+<td align="center" width="40%" valign="top">
+  <img src="https://raw.githubusercontent.com/ANURAG12112004/ANURAG12112004/main/Analyst.png" width="230px">
+</td>
 
-</div>
-
-
----
-
-## ⚡ Fun Fact  
-✨ *I debug code faster than I debug my life.* 😄
+</tr>
+</table>
 
 ---
 
