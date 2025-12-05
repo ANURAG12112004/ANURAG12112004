@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_LINK_HERE" width="100%" />
+  <img src="https://raw.githubusercontent.com/ANURAG12112004/ANURAG12112004/main/Developer.png" width="100%" />
 </p>
 
 <h1 align="center">
@@ -41,7 +41,7 @@
 
 <!-- Developer Illustration on the Right -->
 <p align="right">
-  <img src="YOUR_DEVELOPER_ILLUSTRATION_IMAGE_LINK_HERE" width="280px" />
+  <img src="https://raw.githubusercontent.com/ANURAG12112004/ANURAG12112004/main/Analyst.png" width="280px" />
 </p>
 
 ### 💻 Programming  
