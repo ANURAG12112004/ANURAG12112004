@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ANURAG12112004/ANURAG12112004/main/Developer.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/ANURAG12112004/ANURAG12112004/main/SDE.jpeg" width="100%" />
 </p>
 
 <h1 align="center">
