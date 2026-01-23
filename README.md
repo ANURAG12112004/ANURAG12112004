@@ -17,7 +17,7 @@
 - 💡 I build scalable web apps and turn data into meaningful insights  
 - 🧩 Skilled in MERN Stack & Data Analytics Tools  
 - 📈 Always exploring system design, performance, and automation  
-- 📧 Reach me at: **anuragtiwari14101.official@gmail.com**
+- 📧 Reach me at: **[anuragtiwari14101.official@gmail.com](mailto:anuragtiwari14101.official@gmail.com)**
 
 </td>
 
